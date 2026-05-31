@@ -1,4 +1,4 @@
-# Financial Document Management System
+# Financial Document Management System by Farhan Sayyed
 
 A FastAPI application for financial document management with AI-powered semantic analysis using RAG (Retrieval-Augmented Generation).
 
