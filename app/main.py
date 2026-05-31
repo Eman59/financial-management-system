@@ -24,6 +24,7 @@ app = FastAPI(
     ),
     version="1.0.0",
     lifespan=lifespan,
+    swagger_ui_parameters={"defaultModelsExpandDepth": 0},
 )
 
 
